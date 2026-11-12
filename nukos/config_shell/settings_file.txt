@@ -1,0 +1,8 @@
+{
+  write_intro = true,
+  open_help_menu_with_start = false,
+  inicialization = true,
+  open_fetch = false,
+  theme_bg_color = 32768,
+  theme_text_color = 1,
+}

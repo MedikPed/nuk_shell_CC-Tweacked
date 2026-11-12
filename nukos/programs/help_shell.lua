@@ -9,7 +9,9 @@ local  help = [[
 local help2 = [[
 
     df    - shows disk information
-    
+    open  - open file (edit)
+    cls   - clear shell and display
+    cf    - open config file system
     ]]
 print("===========command-shell===========")
 print(help)

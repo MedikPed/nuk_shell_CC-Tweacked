@@ -1,1 +1,1 @@
-shell.run("nukos/os_shell.lua")
+shell.run("nukos/core/os_shell.lua")
